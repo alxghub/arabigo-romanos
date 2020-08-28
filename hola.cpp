@@ -24,7 +24,6 @@ int main(){
 	int n;
 	cout<<"Ingrese un numero: "; cin>>n;
 	conNumRom(n);
-	cout<<"Hi World";
     getchar();
 	return 0;
 }
