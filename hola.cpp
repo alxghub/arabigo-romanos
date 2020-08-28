@@ -1,5 +1,5 @@
 /*
-Programa en C++ que permita convertir un numero del 1 al 1000 a su equivalente a Numero Romano
+Programa en C++ que permite convertir un numero del 1 al 1000 a su equivalente a Numero Romano
 */
 #include <stdio.h>
 #include <iostream>
@@ -24,6 +24,7 @@ int main(){
 	int n;
 	cout<<"Ingrese un numero: "; cin>>n;
 	conNumRom(n);
+	cout<<"Hi World";
     getchar();
 	return 0;
 }
